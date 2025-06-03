@@ -1,4 +1,7 @@
 streamlit
 psutil
 matplotlib
-GPUtil
+pandas
+plotly
+numpy
+streamlit-autorefresh
