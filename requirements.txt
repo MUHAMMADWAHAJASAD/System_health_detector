@@ -1,3 +1,4 @@
 streamlit
 psutil
 matplotlib
+GPUtil
